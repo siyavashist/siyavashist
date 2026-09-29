@@ -25,7 +25,7 @@
 </div>
 <div align="center">
 
-### `siyavashist67-glitch ~ $ whoami`
+### `siyavashist ~ $ whoami`
 
 <table>
   <tr>
