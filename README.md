@@ -14,13 +14,13 @@
 <a href="https://www.linkedin.com/in/siyavashist">
   <img src="https://img.shields.io/badge/LinkedIn-7209B7?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/siyavashist67-glitch">
+<a href="https://github.com/siyavashist">
   <img src="https://img.shields.io/badge/GitHub-3A0CA3?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=siyavashist67-glitch&style=for-the-badge&color=4361EE&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/siyavashist67-glitch?style=for-the-badge&color=4361EE&logo=github&label=FOLLOWERS&labelColor=3A0CA3" />
-<img src="https://img.shields.io/github/stars/siyavashist67-glitch/siyavashist67-glitch?style=for-the-badge&color=4361EE&logo=github&label=STARS&labelColor=F72585" />
+<img src="https://komarev.com/ghpvc/?username=siyavashist&style=for-the-badge&color=4361EE&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/siyavashist?style=for-the-badge&color=4361EE&logo=github&label=FOLLOWERS&labelColor=3A0CA3" />
+<img src="https://img.shields.io/github/stars/siyavashist/siyavashist?style=for-the-badge&color=4361EE&logo=github&label=STARS&labelColor=F72585" />
 
 </div>
 <div align="center">
