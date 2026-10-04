@@ -110,7 +110,7 @@ Led a 5-person interdisciplinary team (psychology and engineering) designing a m
 | **Scope** | Root-caused barriers to youth substance use, aligned success targets to UN SDGs 3, 10, and 11 |
 | **Method** | Weekly sprints, async check-ins, cross-functional coordination through team attrition |
 | **Outcome** | Final Capstone showcase presented to 35 to 50 external stakeholders |
-| **Repository** | Not applicable, physical prototype and stakeholder-facing deliverable |
+
 
 </details>
 
@@ -126,7 +126,7 @@ Co-led a 7-person between-subjects replication study examining how wealth trajec
 | **Scope** | n = 208, mediation analysis and t-tests |
 | **Method** | Between-subjects experimental design, full APA-7 write-up |
 | **Outcome** | Selected as the top submission in a blind, course-wide review |
-| **Repository** | Not applicable, academic paper |
+
 
 </details>
 
@@ -142,7 +142,7 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 | **Scope** | n = 91 |
 | **Method** | Regression modeling on workforce data |
 | **Outcome** | R² = 0.42, p < .001, translated into evidence-based recommendations for closing leadership advancement gaps |
-| **Repository** | Not applicable, academic case study |
+
 
 </details>
 
