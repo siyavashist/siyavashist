@@ -94,7 +94,7 @@ A fully self-built, automated profile README: a self-typing ASCII portrait, a ne
 | **Scope** | Background segmentation, ASCII rendering with aspect-correction, theme-adaptive SVG (light/dark mode via `prefers-color-scheme`), scheduled data refresh |
 | **Method** | GrabCut-based image segmentation, custom character-density mapping, GitHub's public contribution HTML parsed with BeautifulSoup (no API token required) |
 | **Outcome** | Live, self-updating profile page, zero third-party stats services |
-| **Repository** | [siyavashist67-glitch/siyavashist67-glitch](https://github.com/siyavashist67-glitch/siyavashist67-glitch) |
+| **Repository** | [siyavashist/siyavashist](https://github.com/siyavashist/siyavashist) |
 
 </details>
 
