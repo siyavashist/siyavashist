@@ -222,7 +222,7 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=siyavashist67-glitch&hide_border=true&background=0D1117&ring=4361EE&fire=4CC9F0&currStreakLabel=4CC9F0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
+<img src="https://streak-stats.demolab.com?user=siyavashist&hide_border=true&background=0D1117&ring=4361EE&fire=4CC9F0&currStreakLabel=4CC9F0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
 
 </div>
 
@@ -232,7 +232,7 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 <div align="center">
 
-### `siyavashist67-glitch ~ $ ./contributions.sh`
+### `siyavashist ~ $ ./contributions.sh`
 
 <img src="./contrib-heatmap.svg" width="820" />
 
@@ -250,7 +250,7 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 <a href="https://www.linkedin.com/in/siyavashist">
   <img src="https://img.shields.io/badge/LinkedIn-7209B7?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/siyavashist67-glitch">
+<a href="https://github.com/siyavashist">
   <img src="https://img.shields.io/badge/GitHub-3A0CA3?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
